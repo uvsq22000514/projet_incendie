@@ -1,8 +1,8 @@
 #########################################
-# groupe MPCI 3
-# Toto LEHERO
-# Titi LEVAINQUEUR
-# etc...
+# groupe Miashs
+# uvsq22007141  
+# uvsq22000514
+# uvsq22001201
 # https://github.com/uvsq22007141/projet_incendie
 #########################################
 
